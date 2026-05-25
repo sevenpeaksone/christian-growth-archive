@@ -1,32 +1,25 @@
 # Christian Growth Archive
 
-Christian growth/devotional content source collection, dedupe metadata, generated summaries, and publishing logs.
+기독교 성장, 묵상, 제자도, 성경공부 관련 **상세 글/묵상 콘텐츠** 공개 archive입니다.
 
-This repository is intentionally initialized as a lightweight archive target for the n8n/Hermes content automation MVP. Runtime credentials and paid/external delivery configuration stay outside this repo.
+이 저장소는 n8n/Hermes 자동화의 운영 저장소가 아닙니다. 수집 규칙, 원천 raw 데이터, 실행 로그, API 설정, credential은 `n8n-mvp` 운영 저장소와 로컬 환경에만 보관합니다.
 
-## Intended flow
+## Public content layout
 
-1. n8n or deterministic scripts collect candidate items.
-2. Deduplication/state checks run before any LLM call.
-3. Hermes handles summaries, rewriting, tone, quality checks, and compliance only for new items.
-4. Final artifacts and processing logs are committed here for traceability.
+- `articles/`: 날짜별 묵상/기사/분석형 Markdown
+- `assets/images/`: 공개 가능한 이미지 자료
+- `assets/charts/`: 교육/비교/구조 설명용 차트 또는 다이어그램
+- `index.md`: GitHub Pages 또는 archive index용 시작 문서
 
-## Directory layout
+## Content standard
 
-- `sources/`: source definitions or exported feed lists, no secrets.
-- `raw/`: raw collected item snapshots when useful.
-- `processed/`: normalized/deduplicated records.
-- `outputs/`: generated summaries, drafts, or publish-ready artifacts.
-- `logs/`: lightweight processing logs or run manifests.
+- 단순 요약이 아니라 독자가 읽을 수 있는 글 형태로 작성합니다.
+- 성경 구절을 사용할 경우 출처를 명확히 적습니다.
+- 적용점과 묵상 포인트를 포함합니다.
+- 이미지나 다이어그램은 이해를 돕는 경우에만 포함합니다.
 
-## Initial topic scope
+## Safety
 
-- devotional
-- discipleship
-- sermon notes
-- Bible study
-- leadership
-
-## Configuration
-
-No live credentials are committed. Use `.env.example` as a placeholder contract if repo-specific settings are needed later.
+- No secrets or runtime credentials are committed here.
+- No raw crawling output or internal run logs are stored here.
+- This repo can be made public after GitHub repository visibility is changed by the owner.
