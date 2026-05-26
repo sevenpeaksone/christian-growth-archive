@@ -9,6 +9,8 @@ title: Christian Growth Archive
 
 ## Latest sample
 
+- [2026-05-26 기독교·신앙 오늘의 핵심 보고서](articles/2026/05/2026-05-26-faith-community-public-discourse.html)
+
 - [성장은 속도보다 방향을 먼저 묻는다](articles/2026/05/2026-05-25-growth-direction-before-speed.html)
 
 ## Content policy
