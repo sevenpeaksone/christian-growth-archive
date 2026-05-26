@@ -13,8 +13,8 @@ status: "published"
 Google News 등 집계 링크는 공개 근거로 사용하지 않았고, 공식/권위 출처만 상세 페이지에 남겼습니다. 주요인사는 공식 SNS·공식 일정·기관 발표를 우선 출처로 삼도록 정책을 강화했습니다.
 
 ## 개별 상세 링크
-- [Cut Off from the World, Iran&#8217;s Christians Worry, Suffer, and Pray](cut-off-from-the-world-iran-8217-s-christians-worry-suffer-and-pray-1.html) — Christianity Today / 등급 B
-- [The Last Full Measure of Devotion](the-last-full-measure-of-devotion-2.html) — Christianity Today / 등급 B
+- [Cut Off from the World, Iran&#8217;s Christians Worry, Suffer, and Pray](cut-off-from-the-world-iran-8217-s-christians-worry-suffer-and-pray.html) — Christianity Today / 등급 B
+- [The Last Full Measure of Devotion](the-last-full-measure-of-devotion.html) — Christianity Today / 등급 B
 - [A Missing Disclosure in One of Our Stories](a-missing-disclosure-in-one-of-our-stories.html) — Christianity Today / 등급 B
 
 ## 출처 등급 분포
