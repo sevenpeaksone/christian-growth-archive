@@ -11,7 +11,13 @@ source_name: "Christianity Today"
 # A Missing Disclosure in One of Our Stories
 
 ## 핵심 내용
-Christianity Today가 특정 기사에서 이해관계 공시가 빠졌다는 점을 설명하고 편집 윤리 기준을 다시 제시했습니다. 기사 내용과 함께 매체의 재정적 관계 및 공시 여부가 핵심 정보로 제시됩니다.
+Christianity Today에서 확인된 항목입니다.
+
+원문 제목: A Missing Disclosure in One of Our Stories
+
+원문 요약 발췌: Christianity Today’s editorial code of ethics states, “Decisions about what we cover and how we do our work are made by our editorial staff, not by those who provide financial support.” When we run a story, positive or negative, about an organization or individual with whom CT has a financial relationship, we try to disclose that.
+
+원문 상세 내용은 아래 출처 링크에서 확인할 수 있습니다.
 
 ## 출처 정보
 - 출처: Christianity Today
