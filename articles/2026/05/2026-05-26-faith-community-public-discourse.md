@@ -10,58 +10,30 @@ item_count: 2
 
 # ✝️ 2026-05-26 기독교/신앙 브리프
 
-> 기독교/신앙 카테고리는 현재 운영 기준에 따라 핵심 2~4건만 선별합니다. 일반 종교 기사 나열보다 신앙적 분별, 공동체 적용, 사실 확인 가치가 높은 항목을 우선합니다.
+## 핵심 내용
 
-## 1. Christianity Today의 disclosure 정정과 기독교 매체 윤리
+### 1. Christianity Today의 disclosure 정정과 기독교 매체 윤리
 
-<small>📰 기사</small>
+Christianity Today가 기사 내 이해관계 disclosure 누락을 설명했습니다. 이 항목은 신앙 콘텐츠에서도 편집 독립성, 후원 관계, 독자 신뢰 문제가 함께 다뤄질 수 있음을 보여줍니다.
 
-**요약**: Christianity Today가 기사 내 이해관계 disclosure 누락을 설명했습니다. 신앙 콘텐츠도 편집 독립성, 후원 관계, 독자 신뢰를 분명히 해야 한다는 점을 보여줍니다.
+- 출처: Christianity Today
+- 발행·수집 시각: 2026-05-22
+- 원문: https://www.christianitytoday.com/2026/05/a-missing-disclosure-in-one-of-our-stories/
 
-**한 줄 리드**: 기독교 매체의 신뢰는 좋은 의도만이 아니라 투명한 이해관계 공개와 편집 책임에서 나옵니다.
+### 2. 이란 기독교인 보도와 고난받는 공동체
 
-**무엇이**: 한 기사에서 필요한 disclosure가 빠졌고, 매체가 이를 독자에게 설명했습니다.  
-**누가**: Christianity Today 편집 책임 체계와 독자 공동체가 관련됩니다.  
-**왜 중요한가**: 교회와 신앙 공동체가 콘텐츠를 소비할 때도 “무슨 말을 했는가”뿐 아니라 “어떤 이해관계 속에서 말했는가”를 확인해야 합니다.
+Christianity Today는 국제 정세 속 이란 기독교인들이 겪는 불안과 고통, 기도 제목을 다뤘습니다. 박해·분쟁 관련 보도라는 특성상 당사자 안전과 현지 맥락이 중요한 배경입니다.
 
-**공동체 적용**:
+- 출처: Christianity Today
+- 발행·수집 시각: 2026-05-22
+- 원문: https://www.christianitytoday.com/2026/05/iran-christian-war-trump-islamic-republic/
 
-- 교회 소식, 간증, 추천 콘텐츠를 나눌 때 후원·관계·이해관계를 함께 밝힙니다.
-- 신앙 콘텐츠를 무비판적으로 전달하지 않고, 출처와 책임 구조를 확인합니다.
+## 출처 정보
 
-**태그**: `기독교매체` `윤리` `분별`
+- 사용 출처: Christianity Today
+- 수록 항목 수: 2
 
-**출처**:
-- [Christianity Today](https://www.christianitytoday.com/2026/05/a-missing-disclosure-in-one-of-our-stories/) (2026-05-22)
+## 원문 출처
 
----
-
-## 2. 이란 기독교인 보도와 고난받는 공동체를 위한 기도
-
-<small>📰 기사</small>
-
-**요약**: Christianity Today는 국제 정세 속 이란 기독교인들이 겪는 불안과 고통, 기도 제목을 다뤘습니다. 정치적 단정보다 사실 확인과 안전한 중보가 중요합니다.
-
-**한 줄 리드**: 박해와 분쟁 속 신앙 공동체를 볼 때는 자극적 해석보다 확인된 사실, 안전, 기도와 지원의 길을 먼저 살펴야 합니다.
-
-**무엇이**: 이란 기독교 공동체의 상황과 우려가 보도됐습니다.  
-**누가**: 이란 기독교인, 디아스포라 공동체, 이들을 돕는 교회와 선교 단체가 관련됩니다.  
-**왜 중요한가**: 고난받는 공동체의 이야기는 신앙적 관심을 요구하지만, 동시에 당사자 안전과 정보 정확성을 지켜야 합니다.
-
-**묵상 포인트**:
-
-- 고난받는 이들을 위한 기도는 구체적이어야 하지만, 확인되지 않은 정보를 퍼뜨리는 방식이어서는 안 됩니다.
-- 교회 공동체는 정치적 선동보다 안전한 지원 경로와 지속적 관심을 고민해야 합니다.
-
-**태그**: `박해교회` `기도` `국제정세`
-
-**출처**:
-- [Christianity Today](https://www.christianitytoday.com/2026/05/iran-christian-war-trump-islamic-republic/) (2026-05-22)
-
----
-
-## 📌 브리프 정보
-
-- **생성**: Hermes via n8n 기준 수동 정정
-- **운영 기준**: 기독교 카테고리는 2~4건으로 축소 운영
-- **원칙**: 사실 보도와 신앙 적용 분리, 교단 비방/옹호 금지, 출처 확인 우선
+- Christianity Today: https://www.christianitytoday.com/2026/05/a-missing-disclosure-in-one-of-our-stories/
+- Christianity Today: https://www.christianitytoday.com/2026/05/iran-christian-war-trump-islamic-republic/
