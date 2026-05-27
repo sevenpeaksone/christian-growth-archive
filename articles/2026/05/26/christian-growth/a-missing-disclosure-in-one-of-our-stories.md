@@ -11,7 +11,7 @@ source_name: "Christianity Today"
 # A Missing Disclosure in One of Our Stories
 
 ## 핵심 내용
-Christianity Today가 특정 기사에서 이해관계 공시가 빠졌다는 점을 설명하고 편집 윤리 기준을 다시 제시했습니다. 독자는 기사 내용뿐 아니라 매체의 재정적 관계와 공시 여부도 함께 확인할 필요가 있습니다.
+Christianity Today가 특정 기사에서 이해관계 공시가 빠졌다는 점을 설명하고 편집 윤리 기준을 다시 제시했습니다. 기사 내용과 함께 매체의 재정적 관계 및 공시 여부가 핵심 정보로 제시됩니다.
 
 ## 출처 정보
 - 출처: Christianity Today

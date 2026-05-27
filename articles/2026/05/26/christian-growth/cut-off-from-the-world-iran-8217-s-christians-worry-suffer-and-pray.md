@@ -11,7 +11,7 @@ source_name: "Christianity Today"
 # Cut Off from the World, Iran&#8217;s Christians Worry, Suffer, and Pray
 
 ## 핵심 내용
-Christianity Today는 이란 기독교인들이 전쟁과 통신 차단 속에서 겪는 불안, 고립, 기도 제목을 다뤘습니다. 박해·분쟁 관련 보도는 당사자 안전과 현지 맥락을 해치지 않도록 원문 기준으로 조심스럽게 읽어야 합니다.
+Christianity Today는 이란 기독교인들이 전쟁과 통신 차단 속에서 겪는 불안, 고립, 기도 제목을 다뤘습니다. 박해·분쟁 관련 보도라는 특성상 당사자 안전과 현지 맥락이 중요한 배경입니다.
 
 ## 출처 정보
 - 출처: Christianity Today
