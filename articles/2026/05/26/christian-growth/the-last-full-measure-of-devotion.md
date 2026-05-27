@@ -11,23 +11,13 @@ source_name: "Christianity Today"
 
 # The Last Full Measure of Devotion
 
-## 요약
-Abraham Lincoln looms large on Memorial Day.  Physically, the Lincoln Memorial in Washington sits opposite Arlington National Cemetery and acts as a gateway to the hallowed grounds. You can visit at any point, day or night, and feel in Lincoln’s presence a call to remember the courage and selflessness of those who rest across the Read more... The post The Last Full Measure of Devotion appeared first on Christianity Today .
+## 핵심 내용
+Christianity Today는 메모리얼 데이를 계기로 링컨, 희생, 신앙적 기억의 의미를 다뤘습니다. 역사적 인물과 신앙적 적용이 함께 나오는 글이므로 원문 논지와 오늘의 적용을 구분해 읽는 것이 좋습니다.
 
-## 왜 중요한가
-이 항목은 신앙 공동체가 콘텐츠를 나눌 때 출처, 맥락, 책임 구조를 함께 확인해야 함을 보여줍니다. 선정적 해석보다 원문과 공동체적 적용을 분리해 읽는 것이 중요합니다.
-
-## 확인된 정보
+## 출처 정보
 - 출처: Christianity Today
 - 출처 유형: 검증된 보조 출처
-- 출처 등급: B
-- 품질 점수: 0.81
 - 발행·수집 시각: Fri, 22 May 2026 10:00:00 +0000
-
-## 읽을 때 유의할 점
-- Google News 같은 집계 링크는 공개 근거로 사용하지 않고, 원 출처 또는 공식 출처만 링크합니다.
-- 공식 발표라 하더라도 해석은 후속 문서와 실제 적용 사례에 따라 달라질 수 있습니다.
-- 주요인사 항목은 공식 SNS/공식 일정/기관 발표를 우선 확인하고, 2차 보도는 맥락 보강으로만 사용합니다.
 
 ## 원문 출처
 - [Christianity Today](https://www.christianitytoday.com/2026/05/last-full-measure-of-devotion-sacrifice-lincoln-bonhoeffer-memorial-day/)
