@@ -5,7 +5,6 @@ date: 2026-05-26
 topic: "기독교/신앙"
 type: "article"
 status: "published"
-source_grade: "B"
 source_name: "Christianity Today"
 ---
 
